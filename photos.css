@@ -1,6 +1,13 @@
-.images {
-  width: 10%;
-  height: 10%;
+.images img {
+margin-top: 30%;
+  width: 30%;
+  height: 30%;
   text-align: center;
+
+}
+
+body {
+  background-image: url("photoback.png");
+  background-repeat: no-repeat;
 
 }

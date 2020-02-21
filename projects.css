@@ -1,0 +1,10 @@
+body {
+  background-image: url("backprojects.png");
+  background-repeat: no-repeat;
+
+}
+
+.image {
+  width:20%;
+  height: 20%;
+}
