@@ -1,17 +1,25 @@
 body {
-  background-image: url("CoverPage.png");
-  background-repeat: no-repeat;
+  /* background-image: url("Webpage3.png");
+  background-repeat: no-repeat; */
 
 }
+
+.background {
+  margin-top: 10%;
+z-index: -10;
+position: absolute;
+}
+
+
 .button{
 float: right;
   position: right;
-  width: 10%;
-  height: 20px;
+  width: 5%;
+  height: 5px;
   background:#c9c9c9;
   text-align: center;
   margin-left: 20px;
-  margin-top: 10px;
+  margin-top: 20px;
   display: block;
   padding:10%;
 
@@ -20,6 +28,7 @@ float: right;
 .button h1{
   color: #807f79;
   display: block;
+
 
 }
 
@@ -30,4 +39,24 @@ float: right;
 
 .button:hover {
   opacity: 0.8;
+}
+
+.lionHolder{
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width:70%;
+}
+/* .lion1{
+  z-index: 10000000000;
+  transform: scaleX(-1);
+} */
+
+/* .lion2 {
+  z-index: 10000000000;
+} */
+
+.cupidHolder{
+  margin-top: 200px;
+  width: 100%;
 }

@@ -1,0 +1,147 @@
+body{
+  background-color: black;
+}
+.container{
+  width: 100%;
+  height: 200vh;
+  position: relative;
+  background: #020302;
+  margin-bottom: 20vh;
+}
+
+.button {
+  position: absolute;
+  width: 20%;
+  height: 10%;
+  top:80%;
+  left:60%;
+  background:#212224;
+  font-size: 50px;
+}
+
+.red {
+  background: red;
+}
+
+btn1{
+  position: absolute;
+  width: 20%;
+  height: 5%;
+  top:30%;
+  left:40%;
+  background: #1a1916;
+  font-size: 40px;
+  text-align: center;
+  color:#d6c48d;
+}
+
+
+.textbox{
+  font-size: 20px;
+  text-indent: 50px;
+  margin-left: 10%;
+  margin-right: 10%;
+  word-wrap: break-word;
+}
+.white{
+  background: white;
+}
+
+.lime{
+  position: relative;
+  width: 20%;
+  height: 10%;
+  top:20%;
+  left:30%;
+}
+
+.over-img{
+  position: absolute;
+  top:35%;
+  left:10%;
+}
+
+.words{
+  font-size: 30pt;
+  position: relative;
+  top:40%;
+  left:40%;
+  color: white;
+}
+
+.yellow{
+  position: absolute;
+  left: 1050px;
+  top: 135vh;
+
+}
+
+.moth{
+position: absolute;
+top:180vh;
+left:100;
+}
+
+.smile{
+  position: absolute;
+  left: 40px;
+top: 115vh;
+}
+
+.pearl{
+  position: absolute;
+  left: 1000px;
+top: 100px;
+}
+
+.whing{
+  position: absolute;
+  left: 1000px;
+top: 600px;
+}
+
+.drip{
+  position: absolute;
+  left: 500px;
+top: 950px;
+}
+
+.floor{
+  position: absolute;
+  left: 2000px;
+  top: 170vh;
+}
+
+.boy{
+  position: absolute;
+  left:37%;
+  top: 160vh;
+
+}
+
+
+
+.green{
+  position: absolute;
+  left: 5px;
+  top:100px;
+}
+
+.side{
+  position: absolute;
+  left: 10px;
+  top:500px;
+}
+
+.atlas{
+  position: absolute;
+  left: 500px;
+  top:100px;
+}
+
+btn2{
+    position: absolute;
+    left: 5px;
+    top:100px;
+
+}

@@ -1,0 +1,14 @@
+#vid{
+  display: none;
+}
+
+.overlay{
+  width:100%
+  height: 0px;
+  position: absolute;
+  top:0px;
+  left:0px;
+  background color: blue;
+  transition: height 2s;
+
+}

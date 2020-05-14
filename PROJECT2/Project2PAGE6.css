@@ -1,0 +1,39 @@
+body{
+  background-color:black;
+}
+
+
+.textbox{
+  font-size: 20px;
+  text-indent: 50px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+
+.over-img{
+  position: absolute;
+  top:15%;
+  left:15%;
+  opacity: 50%;
+}
+
+.over-img2{
+  position: absolute;
+  top:240%;
+  left:15%;
+  opacity: 0.05;
+}
+
+.over-img3{
+  position: absolute;
+  top:110%;
+  left:15%;
+}
+
+.over-img4{
+  position: absolute;
+  top:240%;
+  left:15%;
+
+}

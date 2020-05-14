@@ -1,0 +1,23 @@
+body{
+  background-color: #0a2a3d;
+}
+
+.textbox{
+  font-size: 20px;
+  text-indent: 50px;
+  margin-left: 10%;
+  margin-right: 10%;
+  word-wrap: break-word;
+}
+
+.over-img3{
+  position: absolute;
+  top:97%;
+  left:10px;
+}
+
+.over-img4{
+  position: absolute;
+  top:105%;
+  left: 53%;
+}

@@ -1,0 +1,25 @@
+body{
+  background color: white;
+}
+
+.textbox{
+  font-size: 20px;
+  text-indent: 50px;
+  margin-left: 10%;
+  margin-right: 10%;
+  word-wrap: break-word;
+
+}
+
+.over-img{
+  position: absolute;
+  top:100%;
+  left:10%;
+  transform: rotate(45deg);
+}
+
+.over-img2{
+  position: absolute;
+  top:300%;
+  left:10%;
+}

@@ -1,13 +1,23 @@
 .images img {
-margin-top: 30%;
+/* margin-top: 30%; */
   width: 30%;
   height: 30%;
   text-align: center;
+}
+/* header {
+  margin-bottom: 20%;
 
+} */
+
+.images {
+  margin-top: 400px;;
 }
 
+
+
 body {
-  background-image: url("photoback.png");
+  background-image: url("BackgroundPhotoBLACK.png");
   background-repeat: no-repeat;
+  background-color: black;
 
 }

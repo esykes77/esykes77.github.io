@@ -1,0 +1,19 @@
+
+body{
+  background-color:#2e4743;
+}
+
+
+.textbox{
+  font-size: 20px;
+  text-indent: 50px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+
+.over-img1{
+  position: absolute;
+  top:720%;
+  left:1%;
+}
